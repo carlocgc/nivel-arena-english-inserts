@@ -1,19 +1,27 @@
 # Nivel Arena English card inserts
 
-English rules-text inserts for [Nivel Arena](https://niveltracker.com) cards: small
-slips you print, cut out and put in the sleeve in front of the card, so the Korean
-card can be played with English text.
+Printable English rules-text slips for Nivel Arena cards. Cut them out and slide them into the sleeve in front of the card.
+
+![Sets](https://img.shields.io/badge/sets-25-blue) ![A4, print at 100%](https://img.shields.io/badge/paper-A4%20%C2%B7%20100%25-informational) ![Last update](https://img.shields.io/github/last-commit/carlocgc/nivel-arena-english-inserts/main?label=last%20update) ![Unofficial fan project](https://img.shields.io/badge/unofficial-fan%20project-lightgrey)
 
 ## Printing
 
 - Print on **A4** at **100 % scale** with "fit to page" **turned off**. Slips are 63 × 39 mm.
 - Cut along the corner guides.
-- Pick a rarity folder:
-  - [`no-rarities/`](no-rarities): one slip per card number. Use this if you only need one slip per card.
-  - [`all-rarities/`](all-rarities): one slip per printing, with the rarity shown.
-- Then pick a text alignment. Rules text that doesn't fill the slip sits at the bottom
-  in `bottom-aligned/`, like on the cards, or at the top in `top-aligned/`, which leaves
-  clear space under the text.
+- Pick a rarity folder, then a text alignment. Every set is in all four combinations:
+  `no-rarities/` or `all-rarities/`, each with `bottom-aligned/` and `top-aligned/`.
+
+### What the folders mean
+
+- **Rarity.** Some cards are printed more than once, in different rarities, with the
+  same text. [`no-rarities/`](no-rarities) has one slip per card number.
+  [`all-rarities/`](all-rarities) has one slip per printing, with the rarity next to the
+  card number so you can match the slip to the exact card.
+- **Alignment.** When the text doesn't fill the slip, it sits at the bottom in
+  `bottom-aligned/`, as it does on the cards, or at the top in `top-aligned/`. Long text
+  fills the slip either way.
+
+![The same card from no-rarities / bottom-aligned and all-rarities / top-aligned, with the rarity highlighted](images/examples.png)
 
 ## Sets
 
