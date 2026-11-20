@@ -1,8 +1,14 @@
+<div align="center">
+
 # Nivel Arena English card inserts
 
 Printable English rules-text slips for Nivel Arena cards. Cut them out and slide them into the sleeve in front of the card.
 
 ![Sets](https://img.shields.io/badge/sets-25-blue) ![A4, print at 100%](https://img.shields.io/badge/paper-A4%20%C2%B7%20100%25-informational) ![Last update](https://img.shields.io/github/last-commit/carlocgc/nivel-arena-english-inserts/main?label=last%20update) ![Unofficial fan project](https://img.shields.io/badge/unofficial-fan%20project-lightgrey)
+
+<img src="images/examples.png" width="560" alt="The same card from no-rarities / bottom-aligned and all-rarities / top-aligned, with the rarity highlighted">
+
+</div>
 
 ## Printing
 
@@ -21,7 +27,8 @@ Printable English rules-text slips for Nivel Arena cards. Cut them out and slide
   `bottom-aligned/`, as it does on the cards, or at the top in `top-aligned/`. Long text
   fills the slip either way.
 
-![The same card from no-rarities / bottom-aligned and all-rarities / top-aligned, with the rarity highlighted](images/examples.png)
+The image at the top shows both choices on one card: `no-rarities` with `bottom-aligned`
+text, and `all-rarities` with `top-aligned` text and the rarity highlighted.
 
 ## Sets
 
