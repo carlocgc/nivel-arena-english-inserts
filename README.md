@@ -32,8 +32,10 @@ text, and `all-rarities` with `top-aligned` text and the rarity highlighted.
 
 ## Sets
 
+<div align="center">
+
 | Set | Name | Cards | No rarities | All rarities |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | BT08 | Wave to You | 85 | [bottom](no-rarities/bottom-aligned/BT08.pdf) / [top](no-rarities/top-aligned/BT08.pdf) | [bottom](all-rarities/bottom-aligned/BT08.pdf) / [top](all-rarities/top-aligned/BT08.pdf) |
 | BT07 | Eve Protocol | 88 | [bottom](no-rarities/bottom-aligned/BT07.pdf) / [top](no-rarities/top-aligned/BT07.pdf) | [bottom](all-rarities/bottom-aligned/BT07.pdf) / [top](all-rarities/top-aligned/BT07.pdf) |
 | BT06 | Golden Tamago | 84 | [bottom](no-rarities/bottom-aligned/BT06.pdf) / [top](no-rarities/top-aligned/BT06.pdf) | [bottom](all-rarities/bottom-aligned/BT06.pdf) / [top](all-rarities/top-aligned/BT06.pdf) |
@@ -59,6 +61,8 @@ text, and `all-rarities` with `top-aligned` text and the rarity highlighted.
 | ST02 | Real Kindness | 17 | [bottom](no-rarities/bottom-aligned/ST02.pdf) / [top](no-rarities/top-aligned/ST02.pdf) | [bottom](all-rarities/bottom-aligned/ST02.pdf) / [top](all-rarities/top-aligned/ST02.pdf) |
 | ST01 | Counters | 17 | [bottom](no-rarities/bottom-aligned/ST01.pdf) / [top](no-rarities/top-aligned/ST01.pdf) | [bottom](all-rarities/bottom-aligned/ST01.pdf) / [top](all-rarities/top-aligned/ST01.pdf) |
 | PR01 | Epic Seven | 12 | [bottom](no-rarities/bottom-aligned/PR01.pdf) / [top](no-rarities/top-aligned/PR01.pdf) | [bottom](all-rarities/bottom-aligned/PR01.pdf) / [top](all-rarities/top-aligned/PR01.pdf) |
+
+</div>
 
 ## Credits
 
