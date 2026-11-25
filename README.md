@@ -4,7 +4,7 @@
 
 Printable English rules-text slips for Nivel Arena cards. Cut them out and slide them into the sleeve in front of the card.
 
-![Sets](https://img.shields.io/badge/sets-25-blue) ![A4, print at 100%](https://img.shields.io/badge/paper-A4%20%C2%B7%20100%25-informational) ![Last update](https://img.shields.io/github/last-commit/carlocgc/nivel-arena-english-inserts/main?label=last%20update) ![Unofficial fan project](https://img.shields.io/badge/unofficial-fan%20project-lightgrey)
+![Sets](https://img.shields.io/badge/sets-26-blue) ![A4, print at 100%](https://img.shields.io/badge/paper-A4%20%C2%B7%20100%25-informational) ![Last update](https://img.shields.io/github/last-commit/carlocgc/nivel-arena-english-inserts/main?label=last%20update) ![Unofficial fan project](https://img.shields.io/badge/unofficial-fan%20project-lightgrey)
 
 <img src="images/examples.png" width="560" alt="The same card from no-rarities / bottom-aligned and all-rarities / top-aligned, with the rarity highlighted">
 
@@ -36,6 +36,7 @@ text, and `all-rarities` with `top-aligned` text and the rarity highlighted.
 
 | Set | Name | Cards | No rarities | All rarities |
 |:---:|:---:|:---:|:---:|:---:|
+| BT09 | Indigo and Clear Skies | 81 | [bottom](no-rarities/bottom-aligned/BT09.pdf) / [top](no-rarities/top-aligned/BT09.pdf) | [bottom](all-rarities/bottom-aligned/BT09.pdf) / [top](all-rarities/top-aligned/BT09.pdf) |
 | BT08 | Wave to You | 85 | [bottom](no-rarities/bottom-aligned/BT08.pdf) / [top](no-rarities/top-aligned/BT08.pdf) | [bottom](all-rarities/bottom-aligned/BT08.pdf) / [top](all-rarities/top-aligned/BT08.pdf) |
 | BT07 | Eve Protocol | 88 | [bottom](no-rarities/bottom-aligned/BT07.pdf) / [top](no-rarities/top-aligned/BT07.pdf) | [bottom](all-rarities/bottom-aligned/BT07.pdf) / [top](all-rarities/top-aligned/BT07.pdf) |
 | BT06 | Golden Tamago | 84 | [bottom](no-rarities/bottom-aligned/BT06.pdf) / [top](no-rarities/top-aligned/BT06.pdf) | [bottom](all-rarities/bottom-aligned/BT06.pdf) / [top](all-rarities/top-aligned/BT06.pdf) |
