@@ -77,6 +77,8 @@ Nivel Arena is a trading card game developed by Gemblo Company and published by
 Daewon Media. This is an unofficial fan project. It is not affiliated with or endorsed
 by either company. Card names, game text and artwork belong to their owners.
 
+The PDFs are shared with the author's permission. Everything else in this repository, including the README and the slip layouts, is all rights reserved and may not be copied or redistributed without permission.
+
 ## Fonts
 
 The slips use DejaVu Sans. Its licence is in [`NOTICE-fonts.txt`](NOTICE-fonts.txt).
